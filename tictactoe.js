@@ -1,3 +1,5 @@
+// Updated: September 01, 2024
+
 let player = "X";
 let playing = true
 const board = new Array(9);
